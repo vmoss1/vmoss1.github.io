@@ -14,14 +14,14 @@ error_reporting(E_ALL);
  * 
  * FIXME: Update this to your desired email address.
  */
-$recipient = "support@themejunction.net";
+$recipient = "vivettemoss@yahoo.com";
 
 // Set the email subject.
 $sender = $conName . " { " . $conEmail . " }";
 
 
 //Email Header
-$head = "You have a new message from your Gerold website Contact Form\n=============================";
+$head = "You have a new message from your Veronica website Contact Form\n=============================";
 
 // Build the email content.
 $form_content = "$head\n\n";
